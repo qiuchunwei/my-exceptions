@@ -13,4 +13,8 @@
 C:\Program Files\Apache Software Foundation\Tomcat 8.0\bin\bcatalina.bat
 
 `JAVA_OPTS=-Xms512M -Xmx2048M -server`
-	
+
+
+**更详细的参照以下链接:**
+
+[outofmemory](http://outofmemory.cn/c/java-outOfMemoryError "Google")
