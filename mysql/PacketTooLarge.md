@@ -4,16 +4,17 @@
 
 
 **原因:**
-	
+
 	max_allowed_packet配置过小
-	
+
 **解决方案:**
 
 *修改max_allowed_packet*
 
 	set global max_allowed_packet = 2*1024*1024*10;
 
-查看是否生效
+查看是否生效:
+查看是否生效:
 
 show variables like '%max_allowed_packet%';
 
