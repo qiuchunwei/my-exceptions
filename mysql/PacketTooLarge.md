@@ -23,7 +23,7 @@
 查看是否生效:8
 
 git dev branch:
-add 1111111111
+add 111111111133333
 
 
 show variables like '%max_allowed_packet%';
