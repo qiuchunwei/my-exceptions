@@ -14,18 +14,8 @@
 	set global max_allowed_packet = 2*1024*1024*10;
 
 查看是否生效:1
-查看是否生效:2
-查看是否生效:3
-查看是否生效:4
-查看是否生效:5
-查看是否生效:6
-查看是否生效:7
-查看是否生效:8
 
-git dev branch:
-add 111111111122222233333
-add dev2 20210111 2230
-add master 20210111 2230
+20210111 modify 01 in dev
 
 show variables like '%max_allowed_packet%';
 
