@@ -25,6 +25,7 @@
 git dev branch:
 add 111111111122222233333
 add dev2 20210111 2230
+add master 20210111 2230
 
 show variables like '%max_allowed_packet%';
 
