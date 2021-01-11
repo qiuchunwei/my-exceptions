@@ -17,6 +17,7 @@
 查看是否生效:
 查看是否生效:
 查看是否生效:11233
+查看是否生效:112445
 
 
 show variables like '%max_allowed_packet%';
