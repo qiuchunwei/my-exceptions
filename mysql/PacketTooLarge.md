@@ -17,6 +17,8 @@
 
 fixed bug in bug0122
 
+rebase master
+
 show variables like '%max_allowed_packet%';
 
 ![Smaller icon](/var/folders/js/cd5xbdxs7d37xsgv4gx3r4f00000gn/T/com.evernote.Evernote/com.evernote.Evernote/WebKitDnD.F3VEg2/QQ图片20180111102610.png)
