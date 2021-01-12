@@ -17,13 +17,6 @@
 
 fixed bug in bug0122
 
-rebase master
-rebase test01
-
-rebase test 01
-
-rebase test02
-
 
 show variables like '%max_allowed_packet%';
 
